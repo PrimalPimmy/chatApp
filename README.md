@@ -8,8 +8,6 @@ ChatApp is a project that we started to get familiar with Websockets and their i
 ![Forks](https://img.shields.io/github/forks/osBins/chatApp?&style=flat-square)
 ![Stars](https://img.shields.io/github/stars/osBins/chatApp?&style=flat-square)
 
-The [chatApp](https://chatapp-420.herokuapp.com) is hosted using Heroku.
-
 ---
 ## Tech Stack
 1. HTML and CSS
@@ -22,9 +20,4 @@ The [chatApp](https://chatapp-420.herokuapp.com) is hosted using Heroku.
 ## Setting Up The Project For Development
 Check out [**SETUP.md**](./SETUP.md)
 
-## Contributors
-<br>
-<a href="https://github.com/osBins/chatApp/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=osBins/chatApp" />
-</a>
-<br>
+
